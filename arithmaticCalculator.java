@@ -1,7 +1,7 @@
 public class arithmaticCalculator {
     public static void main(String args[])   
 {  
-int a = 225, b = 115;
+int a = 40, b = 30;
 int add,sub,multi;
 float div;  
 add = a + b;  
